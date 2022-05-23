@@ -1,4 +1,4 @@
-![SFU Anime Banner](profile/banner.png)
+![SFU Anime Banner](https://github.com/SFUAnime/.github/blob/master/profile/banner.png)
 
 # Simon Fraser University Anime Club
 The Simon Fraser Univerity (SFU) Anime Club serves as a place to bring together
